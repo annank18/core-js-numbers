@@ -20,7 +20,6 @@
  */
 function getRectangleArea(width, height) {
   return width * height;
-  // throw new Error('Not implemented');
 }
 
 /**
